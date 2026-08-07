@@ -2,8 +2,8 @@
 node_modules/
 
 # Images folder
+js/03-our_reviews/profile_pics/
 
-js/03-our_reviews/profile_pics
 # Environment variables / secrets
 .env
 .env.*
